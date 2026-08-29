@@ -1,0 +1,40 @@
+# FastAPI Web Server
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+
+# PDF Processing
+PyMuPDF
+pdfplumber
+PyPDF2
+
+# DOCX Processing
+python-docx
+
+# Excel / Data Processing
+openpyxl
+pandas
+numpy
+
+# CAD / Drawing
+ezdxf
+
+# NLP / Embeddings
+langchain_text_splitters
+sentence-transformers
+torch
+transformers
+accelerate
+
+# Vector Database
+faiss-cpu
+
+# Table Extraction
+camelot-py[cv]
+opencv-python
+ghostscript
+
+# LLM API
+openai
+fpdf2
