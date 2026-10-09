@@ -1,6 +1,6 @@
-# 🤖 RFQ Automated Quotation Platform
+# 🤖 Automated Quotation Platform
 
-AI-powered engineering document intelligence system for **RFQ analysis, BOQ extraction, RAG-based question answering, cross-document conflict detection, cost estimation, and automated quotation generation**.
+AI-powered Automated Quotation Platform for **RFQ analysis, BOQ extraction, RAG-based question answering, cross-document conflict detection, cost estimation, and automated quotation generation**.
 
 The system combines multiple engineering document processing workflows with a **hybrid RAG pipeline** and an automated **cost & quotation engine** through a FastAPI-based web application.
 
