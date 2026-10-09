@@ -1,4 +1,4 @@
-# 🤖 RFQ Intelligence & Automated Quotation Platform
+# 🤖 RFQ Automated Quotation Platform
 
 AI-powered engineering document intelligence system for **RFQ analysis, BOQ extraction, RAG-based question answering, cross-document conflict detection, cost estimation, and automated quotation generation**.
 
