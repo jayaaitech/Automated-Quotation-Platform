@@ -1,4 +1,4 @@
-# 🤖 Automated Quotation Platform
+ # 🤖 Automated Quotation Platform
 
 AI-powered Automated Quotation Platform for **RFQ analysis, BOQ extraction, RAG-based question answering, cross-document conflict detection, cost estimation, and automated quotation generation**.
 
